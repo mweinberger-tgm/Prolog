@@ -44,3 +44,11 @@ Immer linke Wand entlang gehen beispielsweise eine Möglichkeit in der Ebene
 Gesucht ist jedoch eine Lösung für ein allgemeines, beliebiges Labyrinth/Problem
 Durchnummerierung der Wege notwendig, 0 für Sackgasse, ... effizientesten Weg finden
 zyklische Ordnung: Zu jeder Kante e eines Knoten gibt es eine Nachfolgekante succ(e) --> Wichtig bei der Wegfindung
+
+solange Ziel nicht erreicht
+	falls Sackgasse
+		drehe dich um und gehe Gang zurück
+	sonst
+		gehe 1. Gang von links
+		
+Endlosschleifen bei Planung vermeiden, Szenarien durchgehen
