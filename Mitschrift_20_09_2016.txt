@@ -40,3 +40,7 @@ Aber mit Job: Geld, bessere Jobchancen, Praxisbezug!
 Prolog 2.Tag/20.09.2016	10:00 - Algorithmen
 
 Weg durchs Labyrinth finden - Strategien dazu
+Immer linke Wand entlang gehen beispielsweise eine Möglichkeit in der Ebene
+Gesucht ist jedoch eine Lösung für ein allgemeines, beliebiges Labyrinth/Problem
+Durchnummerierung der Wege notwendig, 0 für Sackgasse, ... effizientesten Weg finden
+zyklische Ordnung: Zu jeder Kante e eines Knoten gibt es eine Nachfolgekante succ(e) --> Wichtig bei der Wegfindung
