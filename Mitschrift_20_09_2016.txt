@@ -1,2 +1,14 @@
 Prolog 2.Tag/20.09.2016	08:00 - Studium
 
+VO		Vorlesung: Frontal; 6 Prüfungstermine pro Jahr, über 2 Semester breit verteilt
+UE		Übung: praktischer Teil zu VO; oft in Kleingruppen + Tutor; Übungstests
+LU		Laborübung: wie UE, aber in eigenem Labor (Spezialhardware)
+
+VU		Vorlesung + Übung: wie VO+UE, nur flexibler
+
+PR 		Projekt: eigenständige Projektarbeit
+SE		Seminar
+
+STEOP überprüft Studienwahl, leitet von schulischem Lernen zur Uni weiter
+27 ECTS im ersten Semester! --> Dann ist diese Phase geschafft.
+Zweites Semester ist jedoch Pufferzone, um auf die 27 zu kommen, aber man darf nur Sachen aus dem 2. Semester weitermachen, mit abgeschlossener STEOP alle VOs des Studiums verfügbar
