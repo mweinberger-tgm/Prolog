@@ -18,8 +18,10 @@ verkleinert den Bereich
 
 Verschiedene Abtastraten
 
-Spielzeit 4:25 in unkomprimierter Form
+Ton Spielzeit 4:25 in unkomprimierter Form
 --> Abtastung mit 44100 Hz: 41 MB
 		  22050
 		  immer weniger ...
 Bis wohin ist kein Qualitätsverlust merkbar?
+
+
