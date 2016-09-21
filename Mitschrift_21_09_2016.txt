@@ -28,3 +28,10 @@ Computerchip = Silizium
 
 Transistoren auf einem Chip sind bspw. 14 nm groß, das ist 500x größer als ein rotes Blutkörperchen
 
+Die Frequenz eines Ringoszillators ist frequenzabhängig --> Star Wars-Beispiel
+Gatterlaufzeit = temperaturabhängig
+Eine konstante Taktperiode ist also wieder eine Abstraktion
+
+Signallaufzeiten am Chip sind (Hardware generell ist) abhängig von Temperatur und Spannung
+Ein Programmierer will sich darum nicht kümmern müssen!
+Diese Abhängigkeiten werden verborgen: Wir wählen ein konstante Taktperiode, die größer ist als die Laufzeit unter den schlechtesten Bedingungen 
