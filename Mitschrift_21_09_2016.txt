@@ -1,3 +1,25 @@
 Prolog 3.Tag/21.09.2016	15:00 - Computer
 
 Abstraktion erleichtert die Sicht auf sehr komplexe Themen
+
+Beispiel Handy
+
+Wir konzentrieren uns auf das Wesentliche, lassen Details weg.
+Das erlaubt uns, effizient zu sein, den Überblick zu behalten.
+
+Alle Details irrelevant, bei Signal Abtastpunkte setzen
+Je weniger Abtastpunkte, desto weniger Speicherplatz wird verbraucht
+--> es gibt jedoch unendliche viele Möglichkeiten, ein abgetastetes Signal falsch
+zu rekonstruieren! Ergo nur eine richtige Möglichkeit
+
+Fourieranalyse: Signal als Summe von Sinussignalen darstellen.
+Wir legen höchste relevante Frequenz fest --> Der Bereich darüber kann weggeschnitten werden,
+verkleinert den Bereich
+
+Verschiedene Abtastraten
+
+Spielzeit 4:25 in unkomprimierter Form
+--> Abtastung mit 44100 Hz: 41 MB
+		  22050
+		  immer weniger ...
+Bis wohin ist kein Qualitätsverlust merkbar?
