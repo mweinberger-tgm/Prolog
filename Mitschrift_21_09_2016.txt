@@ -34,4 +34,23 @@ Eine konstante Taktperiode ist also wieder eine Abstraktion
 
 Signallaufzeiten am Chip sind (Hardware generell ist) abhängig von Temperatur und Spannung
 Ein Programmierer will sich darum nicht kümmern müssen!
-Diese Abhängigkeiten werden verborgen: Wir wählen ein konstante Taktperiode, die größer ist als die Laufzeit unter den schlechtesten Bedingungen 
+Diese Abhängigkeiten werden verborgen: Wir wählen ein konstante Taktperiode, die größer ist als die Laufzeit unter den schlechtesten Bedingungen
+
+
+Wieso ist ein Prozessor nicht einfach unendlich schnell?
+
+Grenze 1: Lichtgeschwindigkeit
+Bei 30 Ghz = 30*10^9 Taktperioden pro Sekunde heißt ergo 1 Taktperiode = nur 1 cm!
+
+Grenze 2: Lade-/Entladevorgänge
+Transistoren etc.
+
+Lösung 1: Multi-Core und vernetzte Rechner
+4-16 Prozessoren (Cores) verbaut in einem Chip. Tendenz steigend
+Moderne Grafikkarten: über 1000 Cores
+Parallele Programme erfordern jedoch neue Programmiertechniken!
+
+Lösung 2: Spezialisiertes Design
+Bisher betrachtet wurden "general purpose" Prozessoren für verschiedenste Tätigkeiten
+Programmierbarkeit und Vielseitigkeit kosten Effizienz
+Höherer Entwicklungsaufwand!
