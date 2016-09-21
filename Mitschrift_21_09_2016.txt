@@ -24,4 +24,7 @@ Ton Spielzeit 4:25 in unkomprimierter Form
 		  immer weniger ...
 Bis wohin ist kein Qualitätsverlust merkbar?
 
+Computerchip = Silizium
+
+Transistoren auf einem Chip sind bspw. 14 nm groß, das ist 500x größer als ein rotes Blutkörperchen
 
