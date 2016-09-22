@@ -1,3 +1,29 @@
 Prolog 4.Tag/22.09.2016	13:00 - Computer
 
 Pegelgesteuerte Schalter
+
+Inversion --> Invertierung des Eingangs (0 --> 1, 1 --> 0)
+
+Nicht-Oder (NOR) Verknüpfung --> Invertierte Oder-Verknüpfung der Eingänge
+Beide Eingänge (a,b) = 0 --> Ausgang (y) = 1
+
+Relais = mechanischer Schalter, gesteuert durch Elektromagnet
+Transistor = Steuerung mittels elektrischem Feld, keine beweglichen Teile
+
+Zahlen im Computer = Zusammensetzung von mehreren Signal-Bits, unter Berücksichtigung des Stellenwerts --> Binärdarstellung
+1001 	= 1*2^3 + 0*2^2 + 0*2^1 + 1*2^0
+	= 1*8 + 0*4 + 0*2 + 1*1
+	= 8 + 1
+	= 9
+
+.) Logische Gatter
+.) Arithmetische Bausteine
+.) Umschalter, Wahlschalter
+.) Speicherzellen
+
+Reicht das, um einen Computer zu bauen?
+
+ALU --> Rechenwerk eines Computers!
+Algebraic Logic Unit
+
+Assembler --> durch Verwendung von Namen (AND, ADD) werden die Befehle für den Menschen leichter verständlich, möglichst hardwarenah
